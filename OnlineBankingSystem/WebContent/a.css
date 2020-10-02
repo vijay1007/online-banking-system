@@ -1,0 +1,92 @@
+body{
+	font-family: Times;
+	background-color: #c8d5e6;
+}
+input {
+	width: 300px;
+}
+form {
+	background-color: #f8f5f6;
+	padding: 20px;
+	color: #050a64;
+
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+	color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+#footer {
+	background-color: #004b84;
+	color: white;
+}
+#navbutton, #navbutton1, #navbutton2 {
+	margin: 1px;
+
+	width: 100px;
+	border: none;
+	background-color: #004b84;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: center;
+	color: white;
+}
+#navbutton:hover {
+	background-color: #206ba4;
+}
+#navbutton1{
+	color: white;
+	width: 100%;
+	background-color: #c4a761;
+}
+#navbutton1:hover {
+	cursor: pointer;
+	background-color: #e4c781;
+}
+#navbutton2{
+	color: white;
+	width: 100%;
+	background-color: #a4305e;
+}
+#navbutton2:hover {
+	cursor: pointer;
+	background-color: #ed95b7;
+}
+#navtd {
+	width: 230px;
+	vertical-align: top;
+	background-color: #f4f7f1;
+}
+#submit {
+	  background-color: #1f7fbf;
+  border: none;
+  color: white;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+#submit:hover {
+	background-color: #3f9fdf;
+	cursor: pointer;
+}
+#registerfield {
+	height: 40px;
+}
+#registerfield1 {
+	height: 60px;
+}
